@@ -16,12 +16,12 @@ const sites = [
         url: 'https://considerations.sacy.be'
     },
     {
-        title: 'Hiver - Bréviaire Le Tourneux',
-        url: 'https://breviaire.sacy.be/hiver'
-    },
-    {
         title: 'Théologie Familière de Saint-Cyran',
         url: 'https://theologie-familiere.sacy.be'
+    },
+    {
+        title: 'Hiver - Bréviaire Le Tourneux',
+        url: 'https://breviaire.sacy.be/hiver'
     },
     {
         title: 'Printemps - Bréviaire Le Tourneux',
