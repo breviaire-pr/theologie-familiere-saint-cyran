@@ -1,0 +1,5 @@
+.next
+node_modules/
+*.pdf
+pngs-at/
+heures/

@@ -1,0 +1,11 @@
+{
+    "folder": "theologie_familiere",
+    "offset": 15,
+    "min": 171,
+    "max": 254,
+    "chapters": [
+        ["Titre", 171],
+        ["Avertissement", 173],
+        ["Prieres et Exercices de Devotion durant la Messe", 187]
+    ]
+}

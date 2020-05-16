@@ -1,0 +1,28 @@
+{
+    "folder": "theologie_familiere",
+    "offset": 15,
+    "min": -13,
+    "max": 86,
+    "chapters": [
+        ["Titre", -13],
+        ["Avertissement", -9],
+        ["Approbations", -2],
+        ["I. De Dieu.", 1],
+        ["II. De la creation du monde.", 6],
+        ["III. De la cheute de l’homme.", 10],
+        ["IV. De la Redemption du monde.", 13],
+        ["V. De l’Incarnation.", 17],
+        ["VI. De l’Eglise.", 23],
+        ["VII. De la Foy.", 25],
+        ["VIII. Explication du Symbole.", 27],
+        ["IX. De la Charité.", 38],
+        ["X. Des Commandements de Dieu.", 47],
+        ["XI. Les Commandements de l’Eglise.", 54],
+        ["XII. De la Grace.", 57],
+        ["XIII. De la Priere.", 60],
+        ["XIV. Des Sacremens : Et premierement du Baptesme, & de la Confirmation.", 70],
+        ["XV. De l’Eucharistie.", 74],
+        ["XVI. De la Penitence & de l’Extréme-Onction", 78],
+        ["XVII. De l’Ordre & du Mariage.", 83]
+    ]
+}

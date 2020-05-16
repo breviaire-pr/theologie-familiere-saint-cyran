@@ -1,0 +1,12 @@
+{
+    "folder": "theologie_familiere",
+    "offset": 15,
+    "min": 97,
+    "max": 124,
+    "chapters": [
+        ["Titres des quatre traités", 97],
+        ["Aux Lecteurs", 99],
+        ["Approbation", 103],
+        ["Le Cœur Nouveau", 105]
+    ]
+}

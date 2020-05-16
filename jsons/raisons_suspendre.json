@@ -1,0 +1,11 @@
+{
+    "folder": "theologie_familiere",
+    "offset": 15,
+    "min": 255,
+    "max": 304,
+    "chapters": [
+        ["Titre", 255],
+        ["Preface", 257],
+        ["Raisons de suspension du S. Sacrement", 263]
+    ]
+}

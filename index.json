@@ -1,0 +1,26 @@
+{
+    "default": "theologie_familiere",
+
+    "books": [
+        ["theologie_familiere", "Théologie Familière"],
+        ["traite_confirmation", "Traité de la Confirmation"],
+        ["coeur_nouveau", "Le Cœur Nouveau"],
+        ["explication_messe", "Explication des Cérémonies de la Messe"],
+        ["exercice_messe", "Exercice pour la bien entendre"],
+        ["raisons_suspendre", "Raisons de l’ancienne Cérémonie de suspendre le S. Sacrement"],
+        ["acte_adoration", "Acte d’Adoration du soir & du matin"],
+        ["regles_vie_religieuse", "Les dix Règles de la vie Religieuse"],
+        ["exercice_spirituel_messe", "Exercice Spirituel durant la sainte Messe"]
+
+    ],
+
+    "folders": {
+        
+        "theologie_familiere":
+        ["Theologie Familiere, avec divers autres petits Traitez de devotion",
+            "par Messire Jean du Verger de Hauranne, Abbé de Saint-Cyran, À Paris chez la Veuve Jean le Myre", 1678,
+            "theologie_familiere-myre-1678-B1BbAAAAQAAJ.pdf", {
+        }]
+
+    }
+}
